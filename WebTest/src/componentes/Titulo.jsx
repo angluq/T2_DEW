@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-function titulo (){
+function Titulo (){
 
 return(
     <>
